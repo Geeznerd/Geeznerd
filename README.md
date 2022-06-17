@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Geeznerd
+- 👋 Hi, I’m @Ghanashyama
 - 👀 I’m interested in ...computers
 - 🌱 I’m currently learning ...C,HTML,CSS and python
 - 💞️ I’m looking to collaborate on ...
